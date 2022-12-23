@@ -1,7 +1,6 @@
 
 
 welcome to git
-
 hope yur r getting fun
 
 missing JAVA?
